@@ -34,7 +34,7 @@ Cloning into 'repo'...
 ```
 cd GitWorking
 git remote --v
-origin  https://github.com/osipovpavel/instructionsforworkinggit.git (fetch)
-origin  https://github.com/osipovpavel/instructionsforworkinggit.git (push)
+origin  https://github.com/osipov/instructionsforworkinggit.git (fetch)
+origin  https://github.com/osipov/instructionsforworkinggit.git (push)
 ```
 Git будет использовать эти исходные ссылки для управления любыми дальнейшими изменениями.

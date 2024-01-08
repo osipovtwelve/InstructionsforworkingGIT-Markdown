@@ -8,7 +8,7 @@
  4. [git config — Настройка Git](Steps/gitsettings.md)
  5. [Создание репозитория](Steps/createrepositories.md)
  6. [Рабочий процесс Git](Steps/processgit.md)
- 7. [Внесение изменений](Steps/processgit.md)
+ 7. [Внесение изменений](Steps/modification.md)
  8. [Управление историей коммитов](Steps/controlcommits.md)
  9. [Синхронизация репозитория](Steps/syncrepositories.md)
  10. [Ветвление Git](Steps/branchesgit.md)
