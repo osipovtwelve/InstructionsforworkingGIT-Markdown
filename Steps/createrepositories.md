@@ -38,3 +38,5 @@ origin  https://github.com/osipov/instructionsforworkinggit.git (fetch)
 origin  https://github.com/osipov/instructionsforworkinggit.git (push)
 ```
 Git будет использовать эти исходные ссылки для управления любыми дальнейшими изменениями.
+
+[Вернуться назад](../readme.md)

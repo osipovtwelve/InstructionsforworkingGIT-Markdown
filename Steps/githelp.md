@@ -30,3 +30,5 @@ credentials      Providing usernames and passwords to Git
 git help core-tutorial
 ```
 Чтобы узнать подробнее, нам нужно указать его имя в качестве параметра.
+
+[Вернуться назад](../readme.md)
