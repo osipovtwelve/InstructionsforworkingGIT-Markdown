@@ -1,6 +1,7 @@
 # Инструкция по работе с GIT
 *В этой инструкции мы рассмотрим основные команды, которые помогут вам начать работать с Git*
- ## Содержание
+
+## Содержание
 (*Нажмите по ссылке, чтобы перейти*)
  1. [Что такое Git?](Steps/aboutgit.md)
  2. [Установка Git](Steps/install.md)
@@ -14,7 +15,7 @@
  10. [Ветвление Git](Steps/branchesgit.md)
  11. [Заключение](Steps/conclusion.md)
 
-  ## Лицензия
-  LICENSE: [MIT](./licenses.md)
-  
-  Git logotype by Jason Long - https://git-scm.com/downloads/logos, license: [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
+## Лицензия
+LICENSE: [MIT](./licenses.md)
+
+Git logotype by Jason Long - https://git-scm.com/downloads/logos, license: [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
