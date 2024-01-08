@@ -14,8 +14,7 @@
  10. [Ветвление Git](Steps/branchesgit.md)
  11. [Заключение](Steps/conclusion.md)
 
-  ### Лицензия
-
+  ## Лицензия
   LICENSE: [MIT](./licenses.md)
-  ---
+  
   Git logotype by Jason Long - https://git-scm.com/downloads/logos, license: [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
