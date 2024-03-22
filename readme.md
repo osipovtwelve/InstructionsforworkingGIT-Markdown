@@ -14,6 +14,7 @@
  9. [Синхронизация репозитория](Steps/syncrepositories.md)
  10. [Ветвление Git](Steps/branchesgit.md)
  11. [Заключение](Steps/conclusion.md)
+ 12. [Подсказка синтаксиса](Steps/hint.md)
 
 ## Лицензия
 LICENSE: [MIT](./licenses.md)
